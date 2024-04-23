@@ -1,0 +1,3 @@
+TO PLAY YOU NEED TO HAVE AT LEAST JAVA 17
+THE JAR IS LOCATED IN desktop/build/libs
+thank yew
